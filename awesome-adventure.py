@@ -1,5 +1,5 @@
 from random import randint as rint
-devses=True
+devses=False
 playing=True
 start=True
 errors=[]
